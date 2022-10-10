@@ -6526,6 +6526,15 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  let cards = [
+  //  Add your card in this section
+  {
+    artName: 'idris0077',
+    pageLink: './Art/Joy/idris0077/index.html',
+    imageLink: './Art/Joy/idris0077/triangle.gif',
+    author: 'idris0077',
+    githubLink: 'https://github.com/idris0077'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
